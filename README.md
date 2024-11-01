@@ -5,7 +5,7 @@
 <a href="https://youtube.com/@kenzo3146"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@kenzo3146" /><br>
 <a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
 <a href="https://t.me/atsume_md"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
