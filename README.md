@@ -20,7 +20,7 @@
 
    
 
-3. ## OBTENEZ DES SESSIONS DE CE  BOT : <br>
+## OBTENEZ DES SESSIONS DE CE  BOT : <br>
   
 [**✴️TOUTES SESSION ID**](https://Senkuatsume.github.io/SESSION-ID-WEBCAM.COM/)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
  
