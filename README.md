@@ -12,11 +12,11 @@
 
 ## OBTENIR ATSUME SESSION_ID 
 
-1. Veillez cliquer sur **[🌟ETOILE](https://github.com/Senkuatsume/ATSUME-MD)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+1. Veillez cliquer sur [**🌟ETOILE**](https://github.com/Senkuatsume/ATSUME-MD) afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 
 
-2. veillez fork ici [**🖇️FORK TON REPO ICI**](https://github.com/Senkuatsume/ATSUME-MD/fork)
+2. veillez fork  [**🖇️FORK REPO**](https://github.com/Senkuatsume/ATSUME-MD/fork)
 
    
 
@@ -41,15 +41,15 @@
 
 ## Contributions
 
-Les contributions à ATSUME sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
-
+Les contributions à **ATSUME** sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
+Au développeur   [**᚛💮SENKU_ATSUME💮᚜**](https://wa.me/2250574025815)
 
                 
 ## Licence
 
-Le Bot WhatsApp ATSUME est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+Le Bot WhatsApp **ATSUME** est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp ATSUME pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
+Profitez des fonctionnalités variées du **Bot WhatsApp ATSUME** pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
 
 ## Developpeur :
