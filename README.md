@@ -2,7 +2,12 @@
 <h1 align="center"> 💮ATSUME MD SERVICE BOT WHATSAPP💮  </h1>
 <p align="center">  
 
-***
+<a href="https://youtube.com/@kenzo3146"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@kenzo3146" /><br>
+<a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
+<a href="https://t.me/atsume_md"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://chat.whatsapp.com/JQ4s2pJuBReE7YL9wKJPHo"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=💮ATSUME LE ROBOT+RÉVOLUTIONNE💮;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+💮SENKU+ATSUME💮 ;BOT DATÉE+01.10.2024" alt="Typing SVG" /></a>
   </p>
