@@ -74,6 +74,6 @@ Profitez des fonctionnalités variées du Bot WhatsApp ATSUME pour améliorer vo
 
 ## Developpeur :
  
-  [**SENKU**](https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ)<br>
+  [**Cliquez (groupe)**](https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6)<br>
   [**᚛SENKU_ATSUME ᚜**](https://wa.me/2250574025815)
  
