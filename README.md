@@ -48,7 +48,7 @@
 
 Les contributions à **ATSUME** sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
 
-**Contact le développeur** [**💮ＳＥＮＫＵ『✘』𝗔𝗧𝗦𝗨𝗠𝗘💮**](https://wa.me/2250574025815)
+**Contact le développeur** [**ＳＥＮＫＵ『✘』𝗔𝗧𝗦𝗨𝗠𝗘**](https://wa.me/2250574025815)
 
                 
 ## Licence
@@ -61,10 +61,14 @@ Profitez des fonctionnalités variées du **Bot WhatsApp ATSUME** pour améliore
 ## AIDE :
 
 **🔴YOUTUBE** [**TUTORIEL**](https://www.youtube.com/@atsume_md)
+
 **🟢Groupe support** [**SUPPORT**](https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6)<br>
+
 **🟢 Chaîne WhatsApp** [**CHAÎNE**](https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P)
+
 **🔵Canal telegram** [CANAL](https://t.me/atsume_md)
-**🧑‍💻Développeur**  [**᚛💮SENKU_ATSUME💮᚜**](https://wa.me/2250574025815)
+
+**🧑‍💻Développeur**  [**ＳＥＮＫＵ『✘』𝗔𝗧𝗦𝗨𝗠𝗘**](https://wa.me/2250574025815)
 
  
 
