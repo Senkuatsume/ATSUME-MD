@@ -3,10 +3,9 @@
 <p align="center">  
 
 <p align="center"><a href="https://www.youtube.com/@atsume_md"><img src="https://img.shields.io/badge/Tutoriel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@atsume_md" /><br>
-<p align="center"><a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/Chaîne WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
 <p align="center"><a href="https://t.me/atsume_md"><img src="https://img.shields.io/badge/Canal-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <p align="center"><a href="https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6"><img src="https://img.shields.io/badge/Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
+<p align="center"><a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/Chaîne WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
 
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=💮ATSUME LE ROBOT+RÉVOLUTIONNE💮;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+💮SENKU+ATSUME💮 ;BOT DATÉE+01.10.2024" alt="Typing SVG" /></a>
