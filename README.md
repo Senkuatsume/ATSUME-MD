@@ -2,7 +2,7 @@
 <h1 align="center"> 💮ATSUME MD SERVICE BOT WHATSAPP💮  </h1>
 <p align="center">  
 
-<a href="https://www.youtube.com/@atsume_md"><img src="https://img.shields.io/badge/Tutoriel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@atsume_md" /><br>
+<a align="https://www.youtube.com/@atsume_md"><img src="https://img.shields.io/badge/Tutoriel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@atsume_md" /><br>
 <a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/Chaîne WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
 <a href="https://t.me/atsume_md"><img src="https://img.shields.io/badge/Canal-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 <a href="https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6"><img src="https://img.shields.io/badge/Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -15,6 +15,8 @@
 <p align="center">
 <p align="center">
 
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=Merci+d'avoir+choisir+ATSUME+MD." alt="">
+  
 ## OBTENIR ATSUME SESSION_ID 
 
 1. Veillez cliquer sur [**🌟ETOILE**](https://github.com/Senkuatsume/ATSUME-MD) afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
