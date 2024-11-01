@@ -1,40 +1,40 @@
 
-<h1 align="center"> HACKING MD SERVICE BOT WHATSAPP  </h1>
+<h1 align="center"> ATSUME MD SERVICE BOT WHATSAPP  </h1>
 <p align="center">  
 
 ***
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HACKING LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+THOMAS+TECH;BOT DATÉE+06.6.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="HACKING-MD" width="700" height="300" src="https://telegra.ph/file/ac3a8142e8e18bcabb75b.jpg">
+    <img alt="ATSUME-MD" width="700" height="300" src="https://telegra.ph/file/ac3a8142e8e18bcabb75b.jpg">
 <p align="center">
 <p align="center">
 
 
- ## HACKING-MD : le robot multi-appareils qui révolutionne vos conversations WhatsApp
+ ## ATSUME-MD : le robot multi-appareils qui révolutionne vos conversations WhatsApp
 
-**Imaginez un assistant personnel qui vous accompagne dans toutes vos conversations WhatsApp.** Un assistant capable de gérer vos fichiers, d'interagir avec des autocollants et de faciliter la gestion de vos groupes. Cet assistant, c'est HACKING-MD.
+**Imaginez un assistant personnel qui vous accompagne dans toutes vos conversations WhatsApp.** Un assistant capable de gérer vos fichiers, d'interagir avec des autocollants et de faciliter la gestion de vos groupes. Cet assistant, c'est ATSUME-MD.
 
-**HACKING-MD est bien plus qu'un simple robot.** C'est un véritable compagnon qui vous fera gagner du temps et vous simplifiera la vie. Voici quelques exemples de ce qu'il peut faire pour vous :
+**ATSUME-MD est bien plus qu'un simple robot.** C'est un véritable compagnon qui vous fera gagner du temps et vous simplifiera la vie. Voici quelques exemples de ce qu'il peut faire pour vous :
 
-* **Gérer vos fichiers :** Envoyez et recevez des fichiers de toutes sortes, y compris des documents, des images et des vidéos. HACKING-MD s'occupe de tout pour vous, de la compression à l'envoi.
-* **Interagir avec des autocollants :** HACKING-MD comprend vos émotions et sait comment les exprimer avec des autocollants amusants et pertinents. Il vous suffit de lui dire ce que vous ressentez et il trouvera le sticker parfait pour l'occasion.
-* **Faciliter la gestion de vos groupes :** HACKING-MD peut vous aider à gérer vos groupes WhatsApp de manière efficace. Il peut ajouter ou supprimer des membres, modifier les noms et les descriptions des groupes, et même envoyer des messages à tous les membres en même temps.
+* **Gérer vos fichiers :** Envoyez et recevez des fichiers de toutes sortes, y compris des documents, des images et des vidéos. ATSUME-MD s'occupe de tout pour vous, de la compression à l'envoi.
+* **Interagir avec des autocollants :** ATSUME-MD comprend vos émotions et sait comment les exprimer avec des autocollants amusants et pertinents. Il vous suffit de lui dire ce que vous ressentez et il trouvera le sticker parfait pour l'occasion.
+* **Faciliter la gestion de vos groupes :** ATSUME-MD peut vous aider à gérer vos groupes WhatsApp de manière efficace. Il peut ajouter ou supprimer des membres, modifier les noms et les descriptions des groupes, et même envoyer des messages à tous les membres en même temps.
 
-**HACKING-MD est un outil indispensable pour tous ceux qui utilisent WhatsApp.** Il vous fera gagner du temps, vous simplifiera la vie et rendra vos conversations plus agréables.
+**ATSUME-MD est un outil indispensable pour tous ceux qui utilisent WhatsApp.** Il vous fera gagner du temps, vous simplifiera la vie et rendra vos conversations plus agréables.
 
-**N'attendez plus, installez HACKING-MD dès aujourd'hui !**
+**N'attendez plus, installez ATSUME-MD dès aujourd'hui !**
 
-**Voici quelques autres avantages de HACKING-MD :**
+**Voici quelques autres avantages de ATSUME-MD :**
 
-* **Disponible sur tous les appareils :** HACKING-MD est compatible avec tous les appareils, y compris les smartphones, les tablettes et les ordinateurs.
-* **Facile à utiliser :** HACKING-MD est très facile à utiliser, même pour les personnes qui ne sont pas familiarisées avec les robots.
+* **Disponible sur tous les appareils :** ATSUME-MD est compatible avec tous les appareils, y compris les smartphones, les tablettes et les ordinateurs.
+* **Facile à utiliser :** ATSUME-MD est très facile à utiliser, même pour les personnes qui ne sont pas familiarisées avec les robots.
 * **Personnalisable :** Vous pouvez personnaliser HACKING-MD en fonction de vos besoins.
-* **Gratuit :** HACKING-MD est entièrement gratuit.
+* **Gratuit :** ATSUME-MD est entièrement gratuit.
 
-**HACKING-MD est le robot multi-appareils qui révolutionne vos conversations WhatsApp.** Installez-le dès aujourd'hui et découvrez toutes ses fonctionnalités !
+**ATSUME-MD est le robot multi-appareils qui révolutionne vos conversations WhatsApp.** Installez-le dès aujourd'hui et découvrez toutes ses fonctionnalités !
 
-## OBTENIR HACKING SESSION_ID 
+## OBTENIR ATSUME SESSION_ID 
 
 1. Veillez cliquer sur **[ETOILE](https://github.com/HACKING995/HACKING--MD9)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
@@ -61,19 +61,19 @@
 
 ## Contributions
 
-Les contributions à HACKING sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
+Les contributions à ATSUME sont les bienvenues ! Si vous avez des idées pour de nouvelles fonctionnalités, des améliorations ou des corrections de bogues, n'hésitez pas à ouvrir une issue ou à soumettre une demande de pull 
 
 
                 
 ## Licence
 
-Le Bot WhatsApp HACKING est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+Le Bot WhatsApp ATSUME est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
-Profitez des fonctionnalités variées du Bot WhatsApp HACKING pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
+Profitez des fonctionnalités variées du Bot WhatsApp ATSUME pour améliorer vos conversations et rendre votre expérience WhatsApp plus intéressante !
 
 
 ## Developpeur :
  
-  [**Thomas**](https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ)<br>
-  [**᚛MD-HACKER ᚜**](https://wa.me/22588697148)
+  [**SENKU**](https://chat.whatsapp.com/CmrAOrFSBMi4eXW8xL5UHZ)<br>
+  [**᚛SENKU_ATSUME ᚜**](https://wa.me/2250574025815)
  
