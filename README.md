@@ -29,7 +29,7 @@
 
 * **Disponible sur tous les appareils :** ATSUME-MD est compatible avec tous les appareils, y compris les smartphones, les tablettes et les ordinateurs.
 * **Facile à utiliser :** ATSUME-MD est très facile à utiliser, même pour les personnes qui ne sont pas familiarisées avec les robots.
-* **Personnalisable :** Vous pouvez personnaliser HACKING-MD en fonction de vos besoins.
+* **Personnalisable :** Vous pouvez personnaliser ATSUME-MD en fonction de vos besoins.
 * **Gratuit :** ATSUME-MD est entièrement gratuit.
 
 **ATSUME-MD est le robot multi-appareils qui révolutionne vos conversations WhatsApp.** Installez-le dès aujourd'hui et découvrez toutes ses fonctionnalités !
