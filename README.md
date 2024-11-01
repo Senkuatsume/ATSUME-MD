@@ -57,6 +57,10 @@ Profitez des fonctionnalités variées du Bot WhatsApp ATSUME pour améliorer vo
 
  ## ATSUME-MD : le robot multi-appareils qui révolutionne vos conversations WhatsApp
 
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ATSUME-MD;LISEZ POUR COMPRENDRE" alt="Typing SVG" /></a>
+  </p>
+    <img alt="ATSUME-MD" width="700" height="300" src="https://files.catbox.moe/a7d9e6.jpg">
+
 **Imaginez un assistant personnel qui vous accompagne dans toutes vos conversations WhatsApp.** Un assistant capable de gérer vos fichiers, d'interagir avec des autocollants et de faciliter la gestion de vos groupes. Cet assistant, c'est ATSUME-MD.
 
 **ATSUME-MD est bien plus qu'un simple robot.** C'est un véritable compagnon qui vous fera gagner du temps et vous simplifiera la vie. Voici quelques exemples de ce qu'il peut faire pour vous :
