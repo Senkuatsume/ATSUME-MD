@@ -1,38 +1,38 @@
 
-<h1 align="center"> ATSUME MD SERVICE BOT WHATSAPP  </h1>
+<h1 align="center"> 💮ATSUME MD SERVICE BOT WHATSAPP💮  </h1>
 <p align="center">  
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ATSUME LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+SENKU+ATSUME ;BOT DATÉE+01.10.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=💮ATSUME LE ROBOT+RÉVOLUTIONNE💮;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+💮SENKU+ATSUME💮 ;BOT DATÉE+01.10.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="ATSUME-MD" width="700" height="300" src="https://files.catbox.moe/a7d9e6.jpg">
+    <img alt="💮ATSUME-MD💮" width="700" height="300" src="https://files.catbox.moe/a7d9e6.jpg">
 <p align="center">
 <p align="center">
 
 ## OBTENIR ATSUME SESSION_ID 
 
-1. Veillez cliquer sur **[ETOILE](https://github.com/Senkuatsume/ATSUME-MD)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
+1. Veillez cliquer sur **[🌟ETOILE](https://github.com/Senkuatsume/ATSUME-MD)** afin de copier le repo sur votre compte github.  veillez bien ajouter une etoile 🌟 pour encourager les développeurs 
 
 
 
-2. veillez fork ici [**FORK TON REPO ICI**](https://github.com/Senkuatsume/ATSUME-MD/fork)
+2. veillez fork ici [**🖇️FORK TON REPO ICI**](https://github.com/Senkuatsume/ATSUME-MD/fork)
 
    
 
 3. ## OBTENEZ DES SESSIONS DE CE  BOT : <br>
   
-[**TOUTES SESSION ID**](https://Senkuatsume.github.io/SESSION-ID-WEBCAM.COM/)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
+[**✴️TOUTES SESSION ID**](https://Senkuatsume.github.io/SESSION-ID-WEBCAM.COM/)  ; *TOUTES LES SESSIONS  SE TROUVENT ICI*
  
 
 ## DEPLOYMENT 
 - **déploiement sur heroku**
-  1. si vous ne disposez pas de compte **heroku** cliquez [**ici create**](https://id.heroku.com/login) pour vous en procurer un .
-  2.  cliquez [**ici heroku**](https://dashboard.heroku.com/new?template=https://github.com/HACKING995/HACKING--MD9) pour deployer le bot sur **heroku**
+  1. si vous ne disposez pas de compte **heroku** cliquez [**🆕créé un compte**](https://id.heroku.com/login) pour vous en procurer un .
+  2.  cliquez [**💳Déployer heroku**](https://dashboard.heroku.com/new?template=https://github.com/HACKING995/HACKING--MD9) pour deployer le bot sur **heroku**
 
 - **Déploiement sur Koyeb**
-  1. si vous n'avez pas de compte **koyeb** cliquez [**ici**](https://dashboard.koyeb.com/signup) pour vous en procurer un .
-  2.  cliquez [**ici**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/HACKING995/HACKING--MD9/tree/main?tab=readme-ov-file&branch=main&name=zokou-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
+  1. si vous n'avez pas de compte **koyeb** cliquez [**🆕Créé un compte**](https://dashboard.koyeb.com/signup) pour vous en procurer un .
+  2.  cliquez [**💳Déployer-Koyeb**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/HACKING995/HACKING--MD9/tree/main?tab=readme-ov-file&branch=main&name=zokou-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
   ) pour deployer le bot sur **koyeb**
 
 ## Contributions
@@ -50,14 +50,14 @@ Profitez des fonctionnalités variées du Bot WhatsApp ATSUME pour améliorer vo
 
 ## Developpeur :
  
-  [**Cliquez (groupe)**](https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6)<br>
-  [**᚛SENKU_ATSUME ᚜**](https://wa.me/2250574025815)
+  [**SUPPORT**](https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6)<br>
+  [**᚛💮SENKU_ATSUME💮᚜**](https://wa.me/2250574025815)
 
  
 
  ## ATSUME-MD : le robot multi-appareils qui révolutionne vos conversations WhatsApp
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ATSUME-MD;LISEZ POUR COMPRENDRE" alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=💮ATSUME-MD💮;LISEZ POUR COMPRENDRE" alt="Typing SVG" /></a>
   </p>
     <img alt="ATSUME-MD" width="700" height="300" src="https://files.catbox.moe/a7d9e6.jpg">
 
