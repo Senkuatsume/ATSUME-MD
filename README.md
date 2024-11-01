@@ -4,9 +4,9 @@
 
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=HACKING LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+THOMAS+TECH;BOT DATÉE+06.6.2024" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=ATSUME LE ROBOT+RÉVOLUTIONNE;MULTI+SERVICE+WHATSAPP+BOT;CRÉER+PAR+SENKU+ATSUME ;BOT DATÉE+01.10.2024" alt="Typing SVG" /></a>
   </p>
-    <img alt="ATSUME-MD" width="700" height="300" src="https://telegra.ph/file/ac3a8142e8e18bcabb75b.jpg">
+    <img alt="ATSUME-MD" width="700" height="300" src="https://files.catbox.moe/a7d9e6.jpg">
 <p align="center">
 <p align="center">
 
