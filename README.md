@@ -2,10 +2,10 @@
 <h1 align="center"> 💮ATSUME MD SERVICE BOT WHATSAPP💮  </h1>
 <p align="center">  
 
-<a href="https://www.youtube.com/@atsume_md"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@atsume_md" /><br>
-<a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
-<a href="https://t.me/atsume_md"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
-<a href="https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://www.youtube.com/@atsume_md"><img src="https://img.shields.io/badge/Tutoriel-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://www.youtube.com/@atsume_md" /><br>
+<a href="https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P"><img src="https://img.shields.io/badge/Chaîne WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P" /><br>
+<a href="https://t.me/atsume_md"><img src="https://img.shields.io/badge/Canal-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://chat.whatsapp.com/C5EQSCCklbP0svipAJp6c6"><img src="https://img.shields.io/badge/Support-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
   
@@ -66,7 +66,7 @@ Profitez des fonctionnalités variées du **Bot WhatsApp ATSUME** pour améliore
 
 **🟢 Chaîne WhatsApp** [**CHAÎNE**](https://whatsapp.com/channel/0029VakWCYx5Ejy6juxlem3P)
 
-**🔵Canal telegram** [CANAL](https://t.me/atsume_md)
+**🔵Canal telegram** [**CANAL**](https://t.me/atsume_md)
 
 **🧑‍💻Développeur**  [**ＳＥＮＫＵ『✘』𝗔𝗧𝗦𝗨𝗠𝗘**](https://wa.me/2250574025815)
 
