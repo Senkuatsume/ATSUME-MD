@@ -77,7 +77,7 @@ Profitez des fonctionnalités variées du **Bot WhatsApp ATSUME** pour améliore
 
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=💮ATSUME-MD💮;LISEZ POUR COMPRENDRE" alt="Typing SVG" /></a>
   </p>
-    <img alt="ATSUME-MD" width="700" height="300" src="https://files.catbox.moe/a7d9e6.jpg">
+    <img alt="ATSUME-MD" width="700" height="300" src="https://files.catbox.moe/cv5yjj.jpg">
 
 **Imaginez un assistant personnel qui vous accompagne dans toutes vos conversations WhatsApp.** Un assistant capable de gérer vos fichiers, d'interagir avec des autocollants et de faciliter la gestion de vos groupes. Cet assistant, c'est ATSUME-MD.
 
