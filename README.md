@@ -34,11 +34,13 @@
 ## DEPLOYMENT 
 - **déploiement sur heroku**
   <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-CREE-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-🛑Créé un compte, si vous en avez déjà alors passer à déploiement 
+  
+<a🛑Créé un compte, si vous en avez déjà alors passer à déploiement 
 
 
   <a href='https://dashboard.heroku.com/new?template=https://github.com/Senkuatsume/ATSUME-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-💳Déployer le bot sur **heroku**
+  
+<a💳Déployer le bot sur **heroku**
 
   
 - **Déploiement sur Koyeb**
