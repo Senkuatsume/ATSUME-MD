@@ -33,24 +33,27 @@
 
 ## DEPLOYMENT 
 - **déploiement sur heroku**
+
   <a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-CREE-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
   
-<a🛑Créé un compte, si vous en avez déjà alors passer à déploiement 
+🛑Créé un compte, si vous en avez déjà alors passer à déploiement 
 
 
   <a href='https://dashboard.heroku.com/new?template=https://github.com/Senkuatsume/ATSUME-MD' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER-black?style=for-the-badge&logo=heroku&logoColor=white'/></a>
   
-<a💳Déployer le bot sur **heroku**
+💳Déployer le bot sur **heroku**
 
   
 - **Déploiement sur Koyeb**
 
   <a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-CREE-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+  
 🛑Créé un compte, si vous en avez déjà alors passer à déploiement 
 
 
 
   <a href='https://hermit.koyeb.app/deploy-koyeb' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOYER-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a>
+  
 💳Déployer le bot sur **koyeb**
 
 ## Contributions
