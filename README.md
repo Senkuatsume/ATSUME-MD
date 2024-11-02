@@ -39,7 +39,7 @@
    pour deployer le bot sur **heroku**
 
 - **Déploiement sur Koyeb**
-  1. [**🆕Créé un compte**](https://dashboard.koyeb.com/signup)
+  1.<a href='https://app.koyeb.com/auth/signup' target="_blank"><img alt='koyeb' src='https://img.shields.io/badge/-Login/Logup-black?style=for-the-badge&logo=koyeb&logoColor=white'/></a> [**🆕Créé un compte**](https://dashboard.koyeb.com/signup)
   si vous n'avez pas de compte **koyeb** cliquez  pour vous en procurer un .
   3.  cliquez [**💳Déployer-Koyeb**](https://app.koyeb.com/apps/deploy?type=git&repository=https://github.com/HACKING995/HACKING--MD9/tree/main?tab=readme-ov-file&branch=main&name=zokou-md&env%5BNOM_OWNER%5D=FedoRA&env%5BPREFIXE%5D=~&env%5BMODE_PUBLIC%5D=non&env%5BLECTURE_AUTO_STATUS%5D=non&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=Zokou+2.0&env%5BLIENS_MENU%5D=https://static.animecorner.me/2023/08/op2.jpg&env%5BNUMERO_OWNER%5D=22573777061&env%5BETAT%5D=1&env%5BDATABASE_URL%5D=postgres://zokou_user:b9o2NIT2r7YmvzQbH65e4Ub7ixY3T0jr@dpg-cma2fsfqd2ns73dscejg-a.oregon-postgres.render.com/zokou&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_DELETE_MESSAGE%5D=oui
   )
